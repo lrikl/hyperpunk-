@@ -293,6 +293,10 @@
 
 
 @media (max-width: 767px) {
+    .rz-main-text {
+        width: 100%;
+    }
+    
     .rz-nav-panel {
         flex-direction: column;
         align-items: center;
